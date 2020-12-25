@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "zelhat",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
