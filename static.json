@@ -3,6 +3,13 @@
     "/*": {
       "X-Author": "zelhat",
       "Access-Control-Allow-Origin": "*"
+    },
+    "/login/": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8"
+    },
+    "/sample/": {
+      "Content-Type": "text/plain; charset=UTF-8"
     }
   }
 }
